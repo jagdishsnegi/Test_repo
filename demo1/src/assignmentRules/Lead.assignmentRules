@@ -4,7 +4,7 @@
         <fullName>Standard</fullName>
         <active>true</active>
         <ruleEntry>
-            <assignedTo>jagdish.02051994@resourceful-impala-ejwfsq.com</assignedTo>
+            <assignedTo>jagdish.02051994@resilient-narwhal-anypao.com</assignedTo>
             <assignedToType>User</assignedToType>
             <criteriaItems>
                 <field>Lead.Country</field>
@@ -13,7 +13,7 @@
             </criteriaItems>
         </ruleEntry>
         <ruleEntry>
-            <assignedTo>jagdish.02051994@resourceful-impala-ejwfsq.com</assignedTo>
+            <assignedTo>jagdish.02051994@resilient-narwhal-anypao.com</assignedTo>
             <assignedToType>User</assignedToType>
             <criteriaItems>
                 <field>Lead.Country</field>
