@@ -7,7 +7,11 @@ public with sharing class GanttChartHelper {
   ApexPages.StandardController stdCont;
   
   public GanttChartHelper(ApexPages.StandardController stc){
-    myId = stc.getId();
+   // myId = stc.getId();
+	/**
+	
+	this is for demo.
+	**/
     allowView = Apexpages.currentPage().getParameters().get('p') == null;
   }
 }
